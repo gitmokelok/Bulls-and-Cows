@@ -1,0 +1,53 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src/
+!/Bulls and Cows/task/build.gradle
+!/Bulls and Cows/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Floating-point types/Celsius to Fahrenheit/out/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/production/classes/
+/Topics/Floating-point types/Determine the result/out/
+/Topics/Floating-point types/Determine the result/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/Floating-point types/Existing floating-point types/out/
+/Topics/Floating-point types/Existing floating-point types/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/Floating-point types/Theory/out/
+/Topics/Floating-point types/Theory/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
+/Topics/Math library/Theory/out/
+/Topics/Math library/Theory/out/production/classes/
+/Topics/Math library/What is true/out/
+/Topics/Math library/What is true/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
+/Topics/The while and do-while loops/The number of loop body executions/out/
+/Topics/The while and do-while loops/The number of loop body executions/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/The while and do-while loops/The sum of elements/out/
+/Topics/The while and do-while loops/The sum of elements/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
